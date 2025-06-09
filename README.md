@@ -7,9 +7,10 @@
 <h1 style="color:#d6336c; margin-bottom: 0;">HEY, I’m <span style="color:#e75480;">Shreya M</span> 🌸</h1>
 <p style="color:#9c5271; font-size: 20px; margin-top: 5px; font-weight: 600;">AI/ML Engineering Student | 4<sup>th</sup> Year</p>
 
-<p style="color:#9c5271; font-size: 17px; max-width: 600px; margin: 15px auto 25px auto;">
-*Intrigued by the intersection of human behavior and machine learning & building intelligent systems with <strong>Advanced AI & ML</strong>. Exploring Deep Learning, Computer Vision, NLP, Speech Emotion Recognition, and Generative AI to make technology smarter and more human.*  
+<p style="color:#9c5271; font-size: 17px; max-width: 600px; margin: 15px auto 25px auto; font-style: italic;">
+Intrigued by the intersection of human behavior and machine learning & building intelligent systems with <strong>Advanced AI & ML</strong>. Exploring Deep Learning, Computer Vision, NLP, Speech Emotion Recognition, and Generative AI to make technology smarter and more human.
 </p>
+
 
 <img src="https://media1.tenor.com/m/xei0iF6HWToAAAAC/pjsk-pjsk-anime.gif" width="450" alt="AI Brain GIF" style="border-radius:15px; margin-bottom: 20px;" />
 
