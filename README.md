@@ -11,7 +11,7 @@
 Intrigued by the intersection of human behavior and machine learning & building intelligent systems with <strong>Advanced AI & ML</strong>. Exploring Deep Learning, Computer Vision, NLP, Speech Emotion Recognition, and Generative AI to make technology smarter and more human.  
 </p>
 
-<img src="https://media1.tenor.com/m/xei0iF6HWToAAAAC/pjsk-pjsk-anime.gif" width="180" alt="AI Brain GIF" style="border-radius:15px; margin-bottom: 20px;" />
+<img src="https://media1.tenor.com/m/xei0iF6HWToAAAAC/pjsk-pjsk-anime.gif" width="450" alt="AI Brain GIF" style="border-radius:15px; margin-bottom: 20px;" />
 
 ---
 
