@@ -22,6 +22,8 @@ Intrigued by the intersection of human behavior and machine learning & building 
 - Advanced projects in **Generative AI & Reinforcement Learning**
 - Portfolio: [https://github.com/shreyamb](https://github.com/shreyakirei)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaMB&theme=tokyonight)
+
 ---
 
 ### 🌷 My AI Philosophy
