@@ -48,17 +48,18 @@ That's the kind of AI I'm here to build.
 ### 🛠️ My Tech Stack
 
 <div style="display:flex; justify-content:center; flex-wrap: wrap; gap: 12px; margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpeechBrain-6E4C89?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-AED6F1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FADBD8?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-F5B7B1?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-C5CAE9?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-FDEBD0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpeechBrain-D7BDE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-F1948A?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FAD7A0?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-A9CCE3?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-F5B7B1?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
+
 
 ---
 ### 🧰 AI Toolbox
