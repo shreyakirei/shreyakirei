@@ -11,7 +11,7 @@
 Intrigued by the intersection of human behavior and machine learning & building intelligent systems with <strong>Advanced AI & ML</strong>. Exploring Deep Learning, Computer Vision, NLP, Speech Emotion Recognition, and Generative AI to make technology smarter and more human.  
 </p>
 
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="180" alt="AI Brain GIF" style="border-radius:15px; margin-bottom: 20px;" />
+<img src="https://media1.tenor.com/m/xei0iF6HWToAAAAC/pjsk-pjsk-anime.gif" width="180" alt="AI Brain GIF" style="border-radius:15px; margin-bottom: 20px;" />
 
 ---
 
@@ -20,6 +20,18 @@ Intrigued by the intersection of human behavior and machine learning & building 
 - Real-time **Drowsiness Detection System**
 - Advanced projects in **Generative AI & Reinforcement Learning**
 - Portfolio: [https://github.com/shreyamb](https://github.com/shreyamb)
+
+---
+
+### 🌷 My AI Philosophy
+
+I believe that artificial intelligence should feel natural —  
+🧠 Thoughtful like a friend,  
+🎧 Attentive like a listener,  
+🎨 Adaptive like an artist,  
+⚖️ And always ethical like a good decision.
+
+That's the kind of AI I'm here to build.
 
 ---
 
@@ -39,13 +51,27 @@ Intrigued by the intersection of human behavior and machine learning & building 
 </div>
 
 ---
+### 🧰 AI Toolbox
 
-### 📊 GitHub Stats
+| Domain               | Tools / Libraries                      |
+|----------------------|----------------------------------------|
+| Deep Learning        | PyTorch, TensorFlow, Keras             |
+| Computer Vision      | OpenCV, MediaPipe                      |
+| NLP                  | NLTK, SpaCy, Transformers (HuggingFace)|
+| Audio Processing     | SpeechBrain, librosa                   |
+| Deployment & UI      | Streamlit, Flask, Git, Docker          |
+| Experiments / Demos  | Google Colab, Jupyter, VS Code         |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyamb&show_icons=true&theme=rose_pine&hide_border=true" alt="Shreya's GitHub Stats" style="border-radius:15px;" />
-</p>
+---
 
+### 🧠 Projects & Learning Journey
+
+- 💄 Real-time Face Shape & Makeup Suggestion App  
+- 😴 Drowsiness Detection with MediaPipe  
+- 🎙️ Voice Emotion Recognition using Deep Learning  
+- 📦 Currently exploring: Generative AI, Audio-Visual AI, RAG & LLM integration  
+- 💡 Goal: Build AI that feels intuitive, human-friendly & ethical
+  
 ---
 
 <div align="center" style="font-size: 13px; color: #d6336c; margin-top: 25px; font-style: italic;">
