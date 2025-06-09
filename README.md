@@ -48,16 +48,16 @@ That's the kind of AI I'm here to build.
 ### 🛠️ My Tech Stack
 
 <div style="display:flex; justify-content:center; flex-wrap: wrap; gap: 12px; margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Python-AED6F1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FADBD8?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-F5B7B1?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-C5CAE9?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-FDEBD0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpeechBrain-D7BDE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-F1948A?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FAD7A0?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-A9CCE3?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-F5B7B1?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-F3D6F5?style=for-the-badge&logo=python&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/TensorFlow-F9E0F7?style=for-the-badge&logo=tensorflow&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/PyTorch-F7D6E9?style=for-the-badge&logo=pytorch&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/OpenCV-E7D9F8?style=for-the-badge&logo=opencv&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-FBE9F9?style=for-the-badge&logo=scikit-learn&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/SpeechBrain-EAD6F3?style=for-the-badge&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/Keras-F4B6D9?style=for-the-badge&logo=keras&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/Git-F9D3F1?style=for-the-badge&logo=git&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/Docker-D9C4F9?style=for-the-badge&logo=docker&logoColor=38104A" />
+  <img src="https://img.shields.io/badge/Streamlit-F7D6E9?style=for-the-badge&logo=streamlit&logoColor=38104A" />
 </div>
 
 
