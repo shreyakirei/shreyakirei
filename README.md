@@ -4,7 +4,7 @@
 
 <div align="center" style="background:#ffe4ec; padding: 35px 30px; border-radius: 20px; max-width: 720px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<h1 style="color:#d6336c; margin-bottom: 0;">Hi, I’m <span style="color:#e75480;">Shreya M</span> 🌸</h1>
+<h1 style="color:#d6336c; margin-bottom: 0;">HEY, I’m <span style="color:#e75480;">Shreya M</span> 🌸</h1>
 <p style="color:#9c5271; font-size: 20px; margin-top: 5px; font-weight: 600;">AI/ML Engineering Student | 4<sup>th</sup> Year</p>
 
 <p style="color:#9c5271; font-size: 17px; max-width: 600px; margin: 15px auto 25px auto;">
