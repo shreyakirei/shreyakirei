@@ -27,10 +27,17 @@ Intrigued by the intersection of human behavior and machine learning & building 
 ### 🌷 My AI Philosophy
 
 I believe that artificial intelligence should feel natural —  
-🧠 Thoughtful like a friend,  
-🎧 Attentive like a listener,  
-🎨 Adaptive like an artist,  
-⚖️ And always ethical like a good decision.
+
+
+🎀 "Engineering AI with empathy, elegance, and edge."
+
+✨ "Designing intuitive, emotional, and ethical AI."
+
+🧠 "Making machines think, feel, and respond — one model at a time."
+
+🌸 "Shaping soft, smart AI for a softer, smarter world."
+
+
 
 That's the kind of AI I'm here to build.
 
