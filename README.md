@@ -45,6 +45,28 @@ That's the kind of AI I'm here to build.
 
 ---
 
+<div style="max-width: 650px; margin: 20px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #38104A;">
+
+  <h2 style="text-align:center; color:#6B3B6B;">🎨 Hobbies & Interests</h2>
+  
+  <p style="text-align:center; font-size: 16px; max-width: 600px; margin: 0 auto 20px auto;">
+    When I’m not diving deep into AI and machine learning, I love exploring creative and relaxing activities that fuel my passion and keep me balanced.
+  </p>
+
+  <div style="display:flex; justify-content:center; flex-wrap: wrap; gap: 12px;">
+    <img src="https://img.shields.io/badge/Reading-F3D6F5?style=for-the-badge&logo=bookstack&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Drawing-F9E0F7?style=for-the-badge&logo=paintbrush&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Music-F7D6E9?style=for-the-badge&logo=music&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Traveling-FBE9F9?style=for-the-badge&logo=airplane&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Yoga-EAD6F3?style=for-the-badge&logo=yoga&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Photography-F4B6D9?style=for-the-badge&logo=camera&logoColor=38104A" />
+  </div>
+  
+</div>
+
+
+---
+
 ### 🛠️ My Tech Stack
 
 <div style="display:flex; justify-content:center; flex-wrap: wrap; gap: 12px; margin-top: 20px;">
