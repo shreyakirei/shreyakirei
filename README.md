@@ -23,26 +23,6 @@ Intrigued by the intersection of human behavior and machine learning & building 
 - Portfolio: [https://github.com/shreyamb](https://github.com/shreyakirei)
 
 
-
----
-
-### 🌷 My AI Philosophy
-
-I believe that artificial intelligence should feel natural —  
-
-
-🎀 "Engineering AI with empathy, elegance, and edge."
-
-✨ "Designing intuitive, emotional, and ethical AI."
-
-🧠 "Making machines think, feel, and respond — one model at a time."
-
-🌸 "Shaping soft, smart AI for a softer, smarter world."
-
-
-
-That's the kind of AI I'm here to build.
-
 ---
 
 <div style="max-width: 650px; margin: 20px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #38104A;">
@@ -64,6 +44,25 @@ That's the kind of AI I'm here to build.
   
 </div>
 
+
+---
+
+### 🌷 My AI Philosophy
+
+I believe that artificial intelligence should feel natural —  
+
+
+🎀 "Engineering AI with empathy, elegance, and edge."
+
+✨ "Designing intuitive, emotional, and ethical AI."
+
+🧠 "Making machines think, feel, and respond — one model at a time."
+
+🌸 "Shaping soft, smart AI for a softer, smarter world."
+
+
+
+That's the kind of AI I'm here to build.
 
 ---
 
