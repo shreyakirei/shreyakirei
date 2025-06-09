@@ -20,7 +20,7 @@ Intrigued by the intersection of human behavior and machine learning & building 
 - AI-powered **Emotion Recognition from Speech & Face**
 - Real-time **Drowsiness Detection System**
 - Advanced projects in **Generative AI & Reinforcement Learning**
-- Portfolio: [https://github.com/shreyamb](https://github.com/shreyamb)
+- Portfolio: [https://github.com/shreyamb](https://github.com/shreyakirei)
 
 ---
 
