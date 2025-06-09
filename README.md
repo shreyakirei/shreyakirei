@@ -34,12 +34,12 @@ Intrigued by the intersection of human behavior and machine learning & building 
   </p>
 
   <div style="display:flex; justify-content:center; flex-wrap: wrap; gap: 12px;">
-    <img src="https://img.shields.io/badge/Reading-F3D6F5?style=for-the-badge&logo=bookstack&logoColor=38104A" />
-    <img src="https://img.shields.io/badge/Drawing-F9E0F7?style=for-the-badge&logo=paintbrush&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Baking-F3D6F5?style=for-the-badge&logo=bookstack&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Painting-F9E0F7?style=for-the-badge&logo=paintbrush&logoColor=38104A" />
     <img src="https://img.shields.io/badge/Music-F7D6E9?style=for-the-badge&logo=music&logoColor=38104A" />
-    <img src="https://img.shields.io/badge/Traveling-FBE9F9?style=for-the-badge&logo=airplane&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Pilates-FBE9F9?style=for-the-badge&logo=airplane&logoColor=38104A" />
     <img src="https://img.shields.io/badge/Yoga-EAD6F3?style=for-the-badge&logo=yoga&logoColor=38104A" />
-    <img src="https://img.shields.io/badge/Photography-F4B6D9?style=for-the-badge&logo=camera&logoColor=38104A" />
+    <img src="https://img.shields.io/badge/Gaming-F4B6D9?style=for-the-badge&logo=camera&logoColor=38104A" />
   </div>
   
 </div>
