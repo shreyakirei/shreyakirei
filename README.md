@@ -25,6 +25,29 @@ Intrigued by the intersection of human behavior and machine learning & building 
 
 ---
 
+<div align="center">
+
+# 🌼 My AI App Projects
+
+✨ Explore my interactive AI apps hosted on Streamlit & GitHub ✨
+
+<br/>
+
+🎯 **[🧠 Kawaii Ai Therapist Chatbot](https://aitherapistchatbot-usum9qosgyphxgpmmpuoyv.streamlit.app/)**  
+*Detects emotion and responds like a mental wellness buddy.*
+
+
+🔊 **[🎤 Speech Emotion Recognizer](https://speech-emotion-app-shreyakirei.streamlit.app/)**  
+*Identifies emotion from voice input for audio-based mood analysis.*
+
+<br/>
+
+🌈 *More coming soon... Stay tuned!* 🌸
+
+</div>
+
+---
+
 <div style="max-width: 650px; margin: 20px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #38104A;">
 
   <h2 style="text-align:center; color:#6B3B6B;">🎨 Hobbies & Interests</h2>
