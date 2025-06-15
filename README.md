@@ -27,7 +27,7 @@ Intrigued by the intersection of human behavior and machine learning & building 
 
 <div align="center">
 
-# 🌼 My AI App Projects
+#  My AI App Projects
 
 ✨ Explore my interactive AI apps hosted on Streamlit & GitHub ✨
 
@@ -122,11 +122,11 @@ That's the kind of AI I'm here to build.
 
 ### 🧠 Projects & Learning Journey
 
-- 💄 Real-time Face Shape & Makeup Suggestion App  
-- 😴 Drowsiness Detection with MediaPipe  
-- 🎙️ Voice Emotion Recognition using Deep Learning  
-- 📦 Currently exploring: Generative AI, Audio-Visual AI, RAG & LLM integration  
-- 💡 Goal: Build AI that feels intuitive, human-friendly & ethical
+-  Real-time Face Shape & Makeup Suggestion App  
+- Drowsiness Detection with MediaPipe  
+-  Voice Emotion Recognition using Deep Learning  
+- Currently exploring: Generative AI, Audio-Visual AI, RAG & LLM integration  
+- Goal: Build AI that feels intuitive, human-friendly & ethical
   
 ---
 
