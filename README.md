@@ -33,7 +33,7 @@ Intrigued by the intersection of human behavior and machine learning & building 
 
 <br/>
 
-🎯 **[🧠 Kawaii Ai Therapist Chatbot](https://aitherapistchatbot-usum9qosgyphxgpmmpuoyv.streamlit.app/)**  
+🎯 **[ Kawaii Ai Therapist Chatbot](https://aitherapistchatbot-usum9qosgyphxgpmmpuoyv.streamlit.app/)**  
 *Detects emotion and responds like a mental wellness buddy.*
 
 
@@ -42,7 +42,7 @@ Intrigued by the intersection of human behavior and machine learning & building 
 
 <br/>
 
-🌈 *More coming soon... Stay tuned!* 🌸
+*More coming soon... Stay tuned!* 🌸
 
 </div>
 
@@ -75,14 +75,15 @@ Intrigued by the intersection of human behavior and machine learning & building 
 I believe that artificial intelligence should feel natural —  
 
 
-🎀 "Engineering AI with empathy, elegance, and edge."
+ "Engineering AI with empathy, elegance, and edge."
 
-✨ "Designing intuitive, emotional, and ethical AI."
+ "Designing intuitive, emotional, and ethical AI."
 
-🧠 "Making machines think, feel, and respond — one model at a time."
+ "Making machines think, feel, and respond — one model at a time."
 
-🌸 "Shaping soft, smart AI for a softer, smarter world."
+ "Shaping soft, smart AI for a softer, smarter world. 
 
+^_^
 
 
 That's the kind of AI I'm here to build.
